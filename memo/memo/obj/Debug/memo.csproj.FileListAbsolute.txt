@@ -1,0 +1,10 @@
+C:\Users\sam87\source\repos\memo\memo\bin\Debug\memo.exe.config
+C:\Users\sam87\source\repos\memo\memo\bin\Debug\memo.exe
+C:\Users\sam87\source\repos\memo\memo\bin\Debug\memo.pdb
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.Form1.resources
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.Properties.Resources.resources
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.exe
+C:\Users\sam87\source\repos\memo\memo\obj\Debug\memo.pdb

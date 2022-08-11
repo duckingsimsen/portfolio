@@ -1,0 +1,10 @@
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.Form1.resources
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.Properties.Resources.resources
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\함수2\함수2\bin\Debug\함수2.exe.config
+C:\Users\sam87\source\repos\함수2\함수2\bin\Debug\함수2.exe
+C:\Users\sam87\source\repos\함수2\함수2\bin\Debug\함수2.pdb
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.exe
+C:\Users\sam87\source\repos\함수2\함수2\obj\Debug\함수2.pdb

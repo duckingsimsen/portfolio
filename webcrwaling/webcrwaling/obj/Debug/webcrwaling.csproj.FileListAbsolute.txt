@@ -1,0 +1,15 @@
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\webcrwaling.exe.config
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\webcrwaling.exe
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\webcrwaling.pdb
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\WebDriver.dll
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\WebDriver.Support.dll
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\WebDriver.xml
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\bin\Debug\WebDriver.Support.xml
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.Form1.resources
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.Properties.Resources.resources
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.csproj.GenerateResource.cache
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.csproj.CoreCompileInputs.cache
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.csproj.CopyComplete
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.exe
+C:\Users\심현\source\repos\webcrwaling\webcrwaling\obj\Debug\webcrwaling.pdb

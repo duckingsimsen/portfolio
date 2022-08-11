@@ -1,0 +1,12 @@
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.Form1.resources
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.Properties.Resources.resources
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.csproj.GenerateResource.cache
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.csproj.CoreCompileInputs.cache
+C:\Users\심현\source\repos\crawling\crawling\bin\Debug\crawling.exe.config
+C:\Users\심현\source\repos\crawling\crawling\bin\Debug\crawling.exe
+C:\Users\심현\source\repos\crawling\crawling\bin\Debug\crawling.pdb
+C:\Users\심현\source\repos\crawling\crawling\bin\Debug\WebDriver.dll
+C:\Users\심현\source\repos\crawling\crawling\bin\Debug\WebDriver.xml
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.csproj.CopyComplete
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.exe
+C:\Users\심현\source\repos\crawling\crawling\obj\Debug\crawling.pdb

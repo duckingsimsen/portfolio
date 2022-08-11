@@ -1,0 +1,10 @@
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\bin\Debug\분할_2-1126.exe.config
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\bin\Debug\분할_2-1126.exe
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\bin\Debug\분할_2-1126.pdb
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2-1126.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2_1126.Form1.resources
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2_1126.Properties.Resources.resources
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2-1126.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2-1126.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2-1126.exe
+C:\Users\sam87\source\repos\분할_2-1126\분할_2-1126\obj\Debug\분할_2-1126.pdb

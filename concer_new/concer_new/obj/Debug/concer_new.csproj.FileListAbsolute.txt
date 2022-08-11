@@ -1,0 +1,13 @@
+C:\Users\sam87\source\repos\concer_new\concer_new\bin\Debug\concer_new.exe.config
+C:\Users\sam87\source\repos\concer_new\concer_new\bin\Debug\concer_new.exe
+C:\Users\sam87\source\repos\concer_new\concer_new\bin\Debug\concer_new.pdb
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.Properties.Resources.resources
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.exe
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.pdb
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.Form3.resources
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.chating.resources
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.Form1.resources
+C:\Users\sam87\source\repos\concer_new\concer_new\obj\Debug\concer_new.Form4.resources

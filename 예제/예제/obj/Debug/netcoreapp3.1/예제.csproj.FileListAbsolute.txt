@@ -1,0 +1,15 @@
+C:\Users\sam87\source\repos\예제\예제\bin\Debug\netcoreapp3.1\예제.exe
+C:\Users\sam87\source\repos\예제\예제\bin\Debug\netcoreapp3.1\예제.deps.json
+C:\Users\sam87\source\repos\예제\예제\bin\Debug\netcoreapp3.1\예제.runtimeconfig.json
+C:\Users\sam87\source\repos\예제\예제\bin\Debug\netcoreapp3.1\예제.runtimeconfig.dev.json
+C:\Users\sam87\source\repos\예제\예제\bin\Debug\netcoreapp3.1\예제.dll
+C:\Users\sam87\source\repos\예제\예제\bin\Debug\netcoreapp3.1\예제.pdb
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.Form1.resources
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.AssemblyInfoInputs.cache
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.AssemblyInfo.cs
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.dll
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.pdb
+C:\Users\sam87\source\repos\예제\예제\obj\Debug\netcoreapp3.1\예제.genruntimeconfig.cache

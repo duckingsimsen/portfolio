@@ -1,0 +1,12 @@
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\bin\Debug\전체전역변수.exe.config
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\bin\Debug\전체전역변수.exe
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\bin\Debug\전체전역변수.pdb
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.Form1.resources
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.Form2.resources
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.Form3.resources
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.Properties.Resources.resources
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.exe
+C:\Users\sam87\source\repos\전체전역변수\전체전역변수\obj\Debug\전체전역변수.pdb

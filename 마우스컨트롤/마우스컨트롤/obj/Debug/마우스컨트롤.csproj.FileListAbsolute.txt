@@ -1,0 +1,10 @@
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\bin\Debug\마우스컨트롤.exe.config
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\bin\Debug\마우스컨트롤.exe
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\bin\Debug\마우스컨트롤.pdb
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.Form1.resources
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.Properties.Resources.resources
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.exe
+C:\Users\sam87\source\repos\마우스컨트롤\마우스컨트롤\obj\Debug\마우스컨트롤.pdb

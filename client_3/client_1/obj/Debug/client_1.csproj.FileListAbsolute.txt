@@ -1,0 +1,13 @@
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.Form1.resources
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.Form2.resources
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.Form3.resources
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.Form4.resources
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.Properties.Resources.resources
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\client_1\client_1\bin\Debug\client_1.exe.config
+C:\Users\sam87\source\repos\client_1\client_1\bin\Debug\client_1.exe
+C:\Users\sam87\source\repos\client_1\client_1\bin\Debug\client_1.pdb
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.exe
+C:\Users\sam87\source\repos\client_1\client_1\obj\Debug\client_1.pdb

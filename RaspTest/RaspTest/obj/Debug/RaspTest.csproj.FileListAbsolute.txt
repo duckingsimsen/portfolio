@@ -1,0 +1,10 @@
+C:\Users\심현\source\repos\RaspTest\RaspTest\bin\Debug\RaspTest.exe.config
+C:\Users\심현\source\repos\RaspTest\RaspTest\bin\Debug\RaspTest.exe
+C:\Users\심현\source\repos\RaspTest\RaspTest\bin\Debug\RaspTest.pdb
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.csprojAssemblyReference.cache
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.Form1.resources
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.Properties.Resources.resources
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.csproj.GenerateResource.cache
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.csproj.CoreCompileInputs.cache
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.exe
+C:\Users\심현\source\repos\RaspTest\RaspTest\obj\Debug\RaspTest.pdb

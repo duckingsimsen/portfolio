@@ -1,0 +1,4 @@
+﻿  Final Exam.c
+C:\Users\sam87\source\repos\기말과제_201203\기말과제_201203\Final Exam.c(71,15): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\sam87\source\repos\기말과제_201203\기말과제_201203\Final Exam.c(103,15): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  기말과제_201203.vcxproj -> C:\Users\sam87\source\repos\기말과제_201203\Debug\기말과제_201203.exe

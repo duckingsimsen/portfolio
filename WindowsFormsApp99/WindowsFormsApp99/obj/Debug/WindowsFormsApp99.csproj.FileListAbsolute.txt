@@ -1,0 +1,10 @@
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\bin\Debug\WindowsFormsApp99.exe.config
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\bin\Debug\WindowsFormsApp99.exe
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.csprojAssemblyReference.cache
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.Form1.resources
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.Properties.Resources.resources
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.csproj.GenerateResource.cache
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.csproj.CoreCompileInputs.cache
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.exe
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\obj\Debug\WindowsFormsApp99.pdb
+C:\Users\심현\source\repos\WindowsFormsApp99\WindowsFormsApp99\bin\Debug\WindowsFormsApp99.pdb

@@ -1,0 +1,20 @@
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\bin\Debug\1대다 서버_201123.exe.config
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\bin\Debug\1대다 서버_201123.exe
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\bin\Debug\1대다 서버_201123.pdb
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.csprojAssemblyReference.cache
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\_1대다_서버_201123.Form1.resources
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\_1대다_서버_201123.Properties.Resources.resources
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.csproj.GenerateResource.cache
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.csproj.CoreCompileInputs.cache
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.exe
+C:\Users\sam87\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.pdb
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\bin\Debug\1대다 서버_201123.exe.config
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\bin\Debug\1대다 서버_201123.exe
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\bin\Debug\1대다 서버_201123.pdb
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.csprojAssemblyReference.cache
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\_1대다_서버_201123.Form1.resources
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\_1대다_서버_201123.Properties.Resources.resources
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.csproj.GenerateResource.cache
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.csproj.CoreCompileInputs.cache
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.exe
+C:\Users\심현\source\repos\1대다 서버_201123\1대다 서버_201123\obj\Debug\1대다 서버_201123.pdb
